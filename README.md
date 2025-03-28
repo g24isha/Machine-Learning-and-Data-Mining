@@ -1,4 +1,4 @@
-# Isha Goswami Machine-Learning-and-Data-Mining
+# Machine-Learning-and-Data-Mining
 
 This repository contains the problem sets and machine learning projects I contributed to as part of the assignments for Machine Learning and Data Mining (CS/CNS/EE 155) at the California Institute of Technology in the winter of 2025.
 
